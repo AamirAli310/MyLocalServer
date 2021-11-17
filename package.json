@@ -1,0 +1,20 @@
+{
+  "name": "app-server",
+  "version": "1.0.0",
+  "description": "This is server to test API calls on client end for the Code Push use cases within Ionic Apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"AA Server is Running\""
+  },
+  "keywords": [
+    "AAServer",
+    "AppsServer",
+    "CodePushServer"
+  ],
+  "author": "Aamir Ali <aamir.ali.inbox@gmail.com | aadin@scad.ae> (https://www.linkedin.com/in/aamirali310)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  }
+}
